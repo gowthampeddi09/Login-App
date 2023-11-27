@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  background-image: linear-gradient(to top, #b5b9ff, #2b2c49);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  width: 450px;
+}
